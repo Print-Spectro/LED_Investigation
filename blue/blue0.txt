@@ -1,0 +1,2 @@
+V_range: 0-5V, V_Step: 0.05V, Delay: 50 ms
+Date : 2021-12-07

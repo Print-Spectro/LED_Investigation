@@ -1,0 +1,1005 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1920"
+   height="1080"
+   viewBox="0 0 507.99999 285.75001"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="Flowchart.svg"
+   inkscape:export-filename="C:\Users\franc\OneDrive - Imperial College London\ChemistryY3\PracticalChemistry\ComputerControlled\Flowchart.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="617.50057"
+     inkscape:cy="571.5864"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:snap-global="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-paths="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-page="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#ff0088;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect865"
+       width="363.24011"
+       height="240.35548"
+       x="6.3148894"
+       y="38.598049"
+       rx="2.8755214"
+       ry="2.8755209" />
+    <rect
+       ry="2.8755209"
+       rx="2.8755207"
+       y="3.9539673"
+       x="3.1076543"
+       height="278.63467"
+       width="370.41913"
+       id="rect863"
+       style="fill:none;stroke:#ffcc00;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+    <rect
+       style="fill:#ffcc00;stroke-width:0.264583;stroke-linejoin:round;stroke-dasharray:0.264583, 0.529167;paint-order:markers fill stroke"
+       id="rect837"
+       width="249.40791"
+       height="32.631149"
+       x="3.1076543"
+       y="3.9539673"
+       rx="2.8755209"
+       ry="2.8755212" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.54117px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
+       x="9.9372358"
+       y="27.097889"
+       id="text841"
+       transform="scale(0.99994715,1.0000529)"><tspan
+         sodipodi:role="line"
+         id="tspan839"
+         x="9.9372358"
+         y="27.097889"
+         style="font-size:19.8306px;stroke-width:0.264583">Run</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8.49883px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
+       x="54.872906"
+       y="12.683619"
+       id="text845"
+       transform="scale(0.99994713,1.0000529)"><tspan
+         sodipodi:role="line"
+         x="54.872906"
+         y="12.683619"
+         style="font-size:8.49883px;stroke-width:0.264583"
+         id="tspan1026">Function that should be called once all parameters </tspan><tspan
+         sodipodi:role="line"
+         x="54.872906"
+         y="23.307156"
+         style="font-size:8.49883px;stroke-width:0.264583"
+         id="tspan1030">(components, serial, time delay, samples, range) </tspan><tspan
+         sodipodi:role="line"
+         x="54.872906"
+         y="33.930695"
+         style="font-size:8.49883px;stroke-width:0.264583"
+         id="tspan1032">are set</tspan></text>
+    <rect
+       ry="2.8755212"
+       rx="2.8755212"
+       y="38.598072"
+       x="6.314889"
+       height="17.386904"
+       width="106.51405"
+       id="rect849"
+       style="fill:#ff0088;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke" />
+    <text
+       xml:space="preserve"
+       style="font-size:8.21395px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;stroke-width:0.264582"
+       x="7.9169607"
+       y="49.906162"
+       id="text853"><tspan
+         sodipodi:role="line"
+         id="tspan851"
+         x="7.9169607"
+         y="49.906162"
+         style="fill:#ffffff;stroke-width:0.264582">Repeat for each component</tspan></text>
+    <rect
+       ry="2.8755212"
+       rx="2.8755202"
+       y="94.232742"
+       x="9.295145"
+       height="19.433783"
+       width="181.4832"
+       id="rect867"
+       style="fill:#ffcc00;fill-opacity:1;stroke-width:0.264583;stroke-linejoin:round;stroke-dasharray:0.264583, 0.529167;paint-order:markers fill stroke" />
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
+       x="10.961308"
+       y="107.52309"
+       id="text871"><tspan
+         id="tspan869"
+         x="10.961308"
+         y="107.52309"
+         style="font-size:11.2889px;fill:#000000;stroke-width:0.264583"
+         sodipodi:role="line">Collect data</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#ffcc00;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect873"
+       width="186.91339"
+       height="181.61868"
+       x="9.295145"
+       y="94.23275"
+       rx="2.8755209"
+       ry="2.8755212" />
+    <rect
+       style="fill:#31d8d8;fill-opacity:1;stroke:#31d8d8;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect875"
+       width="186.5076"
+       height="19.26582"
+       x="9.295145"
+       y="58.39032"
+       rx="2.8755178"
+       ry="2.8755183" />
+    <text
+       xml:space="preserve"
+       style="font-size:12.7px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
+       x="9.9193182"
+       y="72.384743"
+       id="text879"><tspan
+         x="9.9193182"
+         y="72.384743"
+         style="font-size:12.7px;stroke-width:0.264583"
+         id="tspan881"
+         sodipodi:role="line">Input</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke-width:0.264583"
+       x="93.360107"
+       y="101.4866"
+       id="text887"><tspan
+         sodipodi:role="line"
+         x="93.360107"
+         y="101.4866"
+         style="font-size:5.64444px;fill:#000000;stroke-width:0.264583"
+         id="tspan1014">Data collection method. Output: Text </tspan><tspan
+         sodipodi:role="line"
+         x="93.360107"
+         y="108.54215"
+         style="font-size:5.64444px;fill:#000000;stroke-width:0.264583"
+         id="tspan1018">file containing data for set parameters</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
+       x="51.432976"
+       y="66.236984"
+       id="text897"><tspan
+         sodipodi:role="line"
+         id="tspan895"
+         x="51.432976"
+         y="66.236984"
+         style="font-size:5.64444px;stroke-width:0.264583">Requires user to press enter to confirm that they have </tspan><tspan
+         sodipodi:role="line"
+         x="51.432976"
+         y="73.292534"
+         style="font-size:5.64444px;stroke-width:0.264583"
+         id="tspan899">connected the correct component before the code runs</tspan></text>
+    <rect
+       style="fill:#31d8d8;fill-opacity:1;stroke:#31d8d8;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect901"
+       width="177.94405"
+       height="10.128706"
+       x="12.049382"
+       y="115.41243"
+       rx="2.8755181"
+       ry="2.8755183" />
+    <text
+       xml:space="preserve"
+       style="font-size:11.2889px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
+       x="13.096206"
+       y="122.98915"
+       id="text905"><tspan
+         sodipodi:role="line"
+         id="tspan903"
+         x="13.096206"
+         y="122.98915"
+         style="font-size:7.76111px;stroke-width:0.264583">Open writeable text file, write parameters and date</tspan></text>
+    <rect
+       style="fill:#ff0088;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
+       id="rect907"
+       width="160.50633"
+       height="15.686011"
+       x="11.984531"
+       y="128.55641"
+       rx="2.8755212"
+       ry="2.8755214" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.7885px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
+       x="13.309595"
+       y="134.57384"
+       id="text911"
+       inkscape:transform-center-x="4.385492"
+       inkscape:transform-center-y="5.3383994e-06"><tspan
+         sodipodi:role="line"
+         id="tspan909"
+         x="13.309595"
+         y="134.57384"
+         style="fill:#ffffff;stroke-width:0.264583">Repeat n times between starting voltage and ending voltage, </tspan><tspan
+         sodipodi:role="line"
+         x="13.309595"
+         y="141.80946"
+         style="fill:#ffffff;stroke-width:0.264583"
+         id="tspan913">increasing the voltage V by (end-start)/n each time.</tspan></text>
+    <rect
+       ry="2.8755209"
+       rx="2.8755212"
+       y="128.55641"
+       x="11.98453"
+       height="143.73766"
+       width="181.0112"
+       id="rect915"
+       style="fill:none;fill-opacity:1;stroke:#ff0088;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+    <rect
+       style="fill:#ffcc00;fill-opacity:1;stroke:#ffcc00;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect917"
+       width="163.15135"
+       height="19.26582"
+       x="199.27725"
+       y="58.924858"
+       rx="2.8755205"
+       ry="2.8755212" />
+    <text
+       id="text921"
+       y="72.919281"
+       x="200.56223"
+       style="font-size:12.7px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan919"
+         style="font-size:12.7px;stroke-width:0.264583"
+         y="72.919281"
+         x="200.56223">Analysis method</tspan></text>
+    <g
+       id="g984"
+       transform="translate(1.3363476,12.473207)">
+      <rect
+         ry="2.8755181"
+         rx="2.8755181"
+         y="134.9711"
+         x="15.501632"
+         height="8.8198938"
+         width="171.58704"
+         id="rect923"
+         style="fill:#31d8d8;fill-opacity:1;stroke:#31d8d8;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+      <text
+         id="text927"
+         y="140.84177"
+         x="17.907057"
+         style="font-size:3.52777px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
+         xml:space="preserve"><tspan
+           sodipodi:role="line"
+           style="font-size:5.64444px;stroke-width:0.264583"
+           y="140.84177"
+           x="17.907057"
+           id="tspan925">Write to serial to set input voltage to V as defined above</tspan></text>
+    </g>
+    <g
+       id="g979"
+       transform="translate(1.3363476,12.627744)">
+      <rect
+         style="fill:#31d8d8;fill-opacity:1;stroke:#31d8d8;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+         id="rect929"
+         width="171.58704"
+         height="16.001442"
+         x="15.501632"
+         y="147.54715"
+         rx="2.8755181"
+         ry="2.8755181" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.52777px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
+         x="17.907057"
+         y="153.48082"
+         id="text933"><tspan
+           id="tspan931"
+           x="17.907057"
+           y="153.48082"
+           style="font-size:5.64444px;stroke-width:0.264583"
+           sodipodi:role="line">Read the serial information recieved to clear the buffer; </tspan><tspan
+           id="tspan935"
+           x="17.907057"
+           y="160.53638"
+           style="font-size:5.64444px;stroke-width:0.264583"
+           sodipodi:role="line">returned set voltage is not wanted</tspan></text>
+    </g>
+    <g
+       id="g973"
+       transform="translate(1.3363476,31.76614)">
+      <rect
+         style="fill:#31d8d8;fill-opacity:1;stroke:#31d8d8;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+         id="rect937"
+         width="171.58704"
+         height="16.19043"
+         x="15.501632"
+         y="167.09908"
+         rx="2.8755181"
+         ry="2.8755181" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.52777px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
+         x="17.907057"
+         y="173.09279"
+         id="text941"><tspan
+           id="tspan943"
+           x="17.907057"
+           y="173.09279"
+           style="font-size:5.64444px;stroke-width:0.264583"
+           sodipodi:role="line">Write to serial with the commands to return voltage across and </tspan><tspan
+           id="tspan947"
+           x="17.907057"
+           y="180.14835"
+           style="font-size:5.64444px;stroke-width:0.264583"
+           sodipodi:role="line">current through the component</tspan></text>
+    </g>
+    <g
+       id="g996"
+       transform="translate(1.3363476,32.023505)">
+      <rect
+         style="fill:#31d8d8;fill-opacity:1;stroke:#31d8d8;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+         id="rect949"
+         width="171.58704"
+         height="14.867513"
+         x="15.501632"
+         y="186.94283"
+         rx="2.8755181"
+         ry="2.8755181" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.52777px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
+         x="17.907057"
+         y="192.30952"
+         id="text953"><tspan
+           id="tspan951"
+           x="17.907057"
+           y="192.30952"
+           style="font-size:5.64444px;stroke-width:0.264583"
+           sodipodi:role="line">Read the next two lines received in the serial buffer and set the </tspan><tspan
+           id="tspan955"
+           x="17.907057"
+           y="199.36508"
+           style="font-size:5.64444px;stroke-width:0.264583"
+           sodipodi:role="line">data in each line to a variable (1st is voltage, 2nd is current)</tspan></text>
+    </g>
+    <g
+       id="g990"
+       transform="translate(1.3363476,31.983909)">
+      <rect
+         ry="2.8755181"
+         rx="2.8755181"
+         y="205.76062"
+         x="15.501632"
+         height="14.867513"
+         width="171.58704"
+         id="rect957"
+         style="fill:#31d8d8;fill-opacity:1;stroke:#31d8d8;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+      <text
+         id="text963"
+         y="211.68819"
+         x="18.096045"
+         style="font-size:3.52777px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
+         xml:space="preserve"><tspan
+           sodipodi:role="line"
+           style="font-size:5.64444px;stroke-width:0.264583"
+           y="211.68819"
+           x="18.096045"
+           id="tspan961">Write a new line to the file with a column for voltage and a column</tspan><tspan
+           id="tspan967"
+           sodipodi:role="line"
+           style="font-size:5.64444px;stroke-width:0.264583"
+           y="218.74374"
+           x="18.096045">for current </tspan></text>
+    </g>
+    <g
+       id="g1006"
+       transform="translate(1.3363476,-25.673602)">
+      <rect
+         style="fill:#31d8d8;fill-opacity:1;stroke:#31d8d8;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+         id="rect998"
+         width="171.58704"
+         height="14.867513"
+         x="15.501632"
+         y="205.76062"
+         rx="2.8755181"
+         ry="2.8755181" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.52777px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
+         x="18.096045"
+         y="211.68819"
+         id="text1004"><tspan
+           x="18.096045"
+           y="211.68819"
+           style="font-size:5.64444px;stroke-width:0.264583"
+           sodipodi:role="line"
+           id="tspan1002">Time delay before the readings are taken </tspan><tspan
+           x="18.096045"
+           y="218.74374"
+           style="font-size:5.64444px;stroke-width:0.264583"
+           sodipodi:role="line"
+           id="tspan1010">so that the LED has time to equilibrate</tspan></text>
+    </g>
+    <rect
+       ry="2.8755209"
+       rx="2.8755209"
+       y="58.924858"
+       x="199.27725"
+       height="217.08752"
+       width="166.77129"
+       id="rect1034"
+       style="fill:none;fill-opacity:1;stroke:#ffcc00;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
+    <rect
+       ry="2.8755181"
+       rx="2.8755181"
+       y="82.207062"
+       x="202.59985"
+       height="8.8198938"
+       width="160.24776"
+       id="rect1036"
+       style="fill:#31d8d8;fill-opacity:1;stroke:#31d8d8;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+    <text
+       id="text1040"
+       y="88.112183"
+       x="205.00528"
+       style="font-size:3.52777px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         style="font-size:5.64444px;stroke-width:0.264583"
+         y="88.112183"
+         x="205.00528"
+         id="tspan1038">Open a writeable text file, write parameters date and headers. </tspan></text>
+    <rect
+       ry="2.8755183"
+       rx="2.8755181"
+       y="80.667389"
+       x="9.6439571"
+       height="10.128706"
+       width="185.4276"
+       id="rect1044"
+       style="fill:#31d8d8;fill-opacity:1;stroke:#31d8d8;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+    <text
+       id="text1048"
+       y="87.173943"
+       x="13.266411"
+       style="font-size:11.152px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
+       xml:space="preserve"
+       transform="scale(0.9878726,1.0122763)"><tspan
+         style="font-size:7.66699px;stroke-width:0.264583"
+         y="87.173943"
+         x="13.266411"
+         id="tspan1046"
+         sodipodi:role="line">Create new directory to save all data for component</tspan></text>
+    <rect
+       style="fill:#31d8d8;fill-opacity:1;stroke:#31d8d8;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect1068"
+       width="160.24776"
+       height="8.8198938"
+       x="202.78883"
+       y="94.680275"
+       rx="2.8755181"
+       ry="2.8755181" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
+       x="205.00528"
+       y="100.5854"
+       id="text1059"><tspan
+         id="tspan1057"
+         x="205.00528"
+         y="100.5854"
+         style="font-size:5.64444px;stroke-width:0.264583"
+         sodipodi:role="line">Open all the data files saved in the specific folder into a list</tspan></text>
+    <rect
+       ry="2.8755214"
+       rx="2.8755212"
+       y="106.63379"
+       x="202.8625"
+       height="15.686011"
+       width="101.92002"
+       id="rect1074"
+       style="fill:#ff0088;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke" />
+    <text
+       inkscape:transform-center-y="5.3383994e-06"
+       inkscape:transform-center-x="4.385492"
+       id="text1080"
+       y="112.65121"
+       x="204.18758"
+       style="font-size:5.7885px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         id="tspan1078"
+         style="fill:#ffffff;stroke-width:0.264583"
+         y="112.65121"
+         x="204.18758"
+         sodipodi:role="line">Repeat for each row in all of the files</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#ff0088;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect1082"
+       width="160.22252"
+       height="166.03824"
+       x="202.8625"
+       y="106.63377"
+       rx="2.8755212"
+       ry="2.8755207" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.58611px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
+       x="301.814"
+       y="64.066963"
+       id="text1086"><tspan
+         sodipodi:role="line"
+         x="301.814"
+         y="64.066963"
+         style="font-size:4.58611px;stroke-width:0.264583"
+         id="tspan1090">Calculates averages and </tspan><tspan
+         sodipodi:role="line"
+         x="301.814"
+         y="69.799599"
+         style="font-size:4.58611px;stroke-width:0.264583"
+         id="tspan1094">standard deviations across </tspan><tspan
+         sodipodi:role="line"
+         x="301.814"
+         y="75.532234"
+         style="font-size:4.58611px;stroke-width:0.264583"
+         id="tspan1096">the data for each component</tspan></text>
+    <rect
+       ry="2.8755181"
+       rx="2.8755181"
+       y="125.8353"
+       x="206.20406"
+       height="15.245489"
+       width="143.61679"
+       id="rect1100"
+       style="fill:#31d8d8;fill-opacity:1;stroke:#31d8d8;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+    <text
+       id="text1104"
+       y="131.39236"
+       x="208.60948"
+       style="font-size:3.52777px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         style="font-size:5.64444px;stroke-width:0.264583"
+         y="131.39236"
+         x="208.60948"
+         id="tspan1102">Open the next row of every file and add all </tspan><tspan
+         id="tspan1108"
+         sodipodi:role="line"
+         style="font-size:5.64444px;stroke-width:0.264583"
+         y="138.44792"
+         x="208.60948">the voltages to a list and all the currents to another list.</tspan></text>
+    <rect
+       style="fill:#31d8d8;fill-opacity:1;stroke:#31d8d8;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect1114"
+       width="143.61679"
+       height="15.245489"
+       x="206.20406"
+       y="144.73547"
+       rx="2.8755181"
+       ry="2.8755181" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
+       x="208.60948"
+       y="150.85202"
+       id="text1120"><tspan
+         x="208.60948"
+         y="150.85202"
+         style="font-size:5.64444px;stroke-width:0.264583"
+         sodipodi:role="line"
+         id="tspan1128">Calculate the average and standard deviation for both </tspan><tspan
+         x="208.60948"
+         y="157.90758"
+         style="font-size:5.64444px;stroke-width:0.264583"
+         sodipodi:role="line"
+         id="tspan1188">voltage and current.</tspan></text>
+    <rect
+       ry="2.8755181"
+       rx="2.8755181"
+       y="163.63568"
+       x="206.20406"
+       height="15.245489"
+       width="143.61679"
+       id="rect1130"
+       style="fill:#31d8d8;fill-opacity:1;stroke:#31d8d8;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+    <text
+       id="text1136"
+       y="169.18999"
+       x="208.60948"
+       style="font-size:3.52777px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         id="tspan1134"
+         sodipodi:role="line"
+         style="font-size:5.64444px;stroke-width:0.264583"
+         y="169.18999"
+         x="208.60948">Write each values in a separate column on a new line in </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:5.64444px;stroke-width:0.264583"
+         y="176.24554"
+         x="208.60948"
+         id="tspan1140">the output file.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
+       x="377.59818"
+       y="9.0714293"
+       id="text1192"><tspan
+         sodipodi:role="line"
+         id="tspan1190"
+         x="377.59818"
+         y="9.0714293"
+         style="font-size:7.76111px;stroke-width:0.264583">Key</tspan></text>
+    <rect
+       style="fill:#ffcc00;fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect1196"
+       width="8.6934528"
+       height="8.6934528"
+       x="377.48752"
+       y="11.717261"
+       rx="2.8755181"
+       ry="2.8755181" />
+    <rect
+       ry="2.8755181"
+       rx="2.8755181"
+       y="22.220684"
+       x="377.48752"
+       height="8.6934528"
+       width="8.6934528"
+       id="rect1198"
+       style="fill:#ff0088;fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+    <rect
+       style="fill:#31d8d8;fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect1200"
+       width="8.6934528"
+       height="8.6934528"
+       x="377.48752"
+       y="32.724106"
+       rx="2.8755181"
+       ry="2.8755181" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
+       x="388.18155"
+       y="17.342119"
+       id="text1204"><tspan
+         sodipodi:role="line"
+         id="tspan1202"
+         x="388.18155"
+         y="17.342119"
+         style="font-size:4.93889px;stroke-width:0.264583">Function / object method</tspan></text>
+    <text
+       id="text1210"
+       y="27.845543"
+       x="388.18155"
+       style="font-size:4.93889px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:4.93889px;stroke-width:0.264583"
+         y="27.845543"
+         x="388.18155"
+         id="tspan1208"
+         sodipodi:role="line">Loop</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
+       x="388.18155"
+       y="38.348961"
+       id="text1216"><tspan
+         sodipodi:role="line"
+         id="tspan1214"
+         x="388.18155"
+         y="38.348961"
+         style="font-size:4.93889px;stroke-width:0.264583">Describing an operation</tspan></text>
+    <rect
+       style="fill:#ffcc00;fill-opacity:1;stroke-width:0.264583;stroke-linejoin:round;stroke-dasharray:0.264583, 0.529167;paint-order:markers fill stroke"
+       id="rect1218"
+       width="124.03082"
+       height="19.433783"
+       x="377.85983"
+       y="66.971252"
+       rx="2.8755202"
+       ry="2.8755212" />
+    <text
+       id="text1222"
+       y="80.261597"
+       x="379.526"
+       style="font-size:8.46667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         style="font-size:11.2889px;fill:#000000;stroke-width:0.264583"
+         y="80.261597"
+         x="379.526"
+         id="tspan1220">Get data</tspan></text>
+    <rect
+       ry="2.8755214"
+       rx="2.8755209"
+       y="66.971268"
+       x="377.85983"
+       height="141.39124"
+       width="125.68125"
+       id="rect1224"
+       style="fill:none;fill-opacity:1;stroke:#ffcc00;stroke-width:2.00001;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.77494px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
+       x="426.82874"
+       y="72.609985"
+       id="text1228"><tspan
+         sodipodi:role="line"
+         id="tspan1226"
+         x="426.82874"
+         y="72.609985"
+         style="stroke-width:0.264583">Converts collumnated data in a text file to a </tspan><tspan
+         sodipodi:role="line"
+         x="426.82874"
+         y="77.328659"
+         style="stroke-width:0.264583"
+         id="tspan1234">dictionary with collumn headings as indexes </tspan><tspan
+         sodipodi:role="line"
+         x="426.82874"
+         y="82.047333"
+         style="stroke-width:0.264583"
+         id="tspan1236">with correpsonding lists of data </tspan></text>
+    <rect
+       style="fill:#31d8d8;fill-opacity:1;stroke:#31d8d8;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect1238"
+       width="117.91442"
+       height="8.8198938"
+       x="381.00461"
+       y="89.114822"
+       rx="2.8755181"
+       ry="2.8755181" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
+       x="383.41003"
+       y="95.019943"
+       id="text1242"><tspan
+         id="tspan1240"
+         x="383.41003"
+         y="95.019943"
+         style="font-size:5.64444px;stroke-width:0.264583"
+         sodipodi:role="line">Opens text file containing data</tspan></text>
+    <rect
+       ry="2.8755181"
+       rx="2.8755181"
+       y="101.96602"
+       x="381.00461"
+       height="21.293108"
+       width="117.91442"
+       id="rect1244"
+       style="fill:#31d8d8;fill-opacity:1;stroke:#31d8d8;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+    <text
+       id="text1248"
+       y="107.87114"
+       x="383.41003"
+       style="font-size:3.52777px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         style="font-size:5.64444px;stroke-width:0.264583"
+         y="107.87114"
+         x="383.41003"
+         id="tspan1246">Identifies the column headers and creates </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:5.64444px;stroke-width:0.264583"
+         y="114.9267"
+         x="383.41003"
+         id="tspan1250">a dictionary of empy lists whos indexes are </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:5.64444px;stroke-width:0.264583"
+         y="121.98224"
+         x="383.41003"
+         id="tspan1252">the column headers</tspan></text>
+    <rect
+       style="fill:#ff0088;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
+       id="rect1254"
+       width="101.92002"
+       height="15.686011"
+       x="381.39856"
+       y="127.74809"
+       rx="2.8755212"
+       ry="2.8755214" />
+    <rect
+       ry="2.8755209"
+       rx="2.8755212"
+       y="127.74809"
+       x="381.39856"
+       height="62.996349"
+       width="119.06301"
+       id="rect1256"
+       style="fill:none;fill-opacity:1;stroke:#ff0088;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
+       x="395.74109"
+       y="114.1488"
+       id="text1260"><tspan
+         sodipodi:role="line"
+         id="tspan1258"
+         x="395.74109"
+         y="114.1488"
+         style="stroke-width:0.264583" /></text>
+    <text
+       id="text1264"
+       y="49.906162"
+       x="7.9169607"
+       style="font-size:8.21395px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;stroke-width:0.264582"
+       xml:space="preserve"><tspan
+         style="fill:#ffffff;stroke-width:0.264582"
+         y="49.906162"
+         x="7.9169607"
+         id="tspan1262"
+         sodipodi:role="line">Repeat for each component</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8.21395px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;stroke-width:0.264582"
+       x="383.43631"
+       y="138.07881"
+       id="text1268"><tspan
+         sodipodi:role="line"
+         id="tspan1266"
+         x="383.43631"
+         y="138.07881"
+         style="fill:#ffffff;stroke-width:0.264582">Repeat for each line in file</tspan></text>
+    <g
+       id="g1305"
+       transform="translate(0,21.648831)">
+      <rect
+         style="fill:#31d8d8;fill-opacity:1;stroke:#31d8d8;stroke-width:1.99999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+         id="rect1278"
+         width="111.48882"
+         height="22.616024"
+         x="384.4064"
+         y="142.68326"
+         rx="2.8755181"
+         ry="2.8755181" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.52777px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
+         x="386.42282"
+         y="148.95731"
+         id="text1282"><tspan
+           id="tspan1280"
+           x="386.42282"
+           y="148.95731"
+           style="font-size:5.64444px;stroke-width:0.264583"
+           sodipodi:role="line">Convert data to floats and append to the </tspan><tspan
+           id="tspan1284"
+           x="386.42282"
+           y="156.01286"
+           style="font-size:5.64444px;stroke-width:0.264583"
+           sodipodi:role="line">corresponding list in the dictionary created </tspan><tspan
+           id="tspan1286"
+           x="386.42282"
+           y="163.06841"
+           style="font-size:5.64444px;stroke-width:0.264583"
+           sodipodi:role="line">above</tspan></text>
+    </g>
+    <rect
+       ry="2.8755181"
+       rx="2.8755181"
+       y="195.20604"
+       x="381.00461"
+       height="8.8198938"
+       width="117.91442"
+       id="rect1288"
+       style="fill:#31d8d8;fill-opacity:1;stroke:#31d8d8;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+    <g
+       id="g1298"
+       transform="translate(0.37799573,21.648831)">
+      <rect
+         style="fill:#31d8d8;fill-opacity:1;stroke:#31d8d8;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+         id="rect1270"
+         width="111.67781"
+         height="14.678525"
+         x="384.02841"
+         y="124.61244"
+         rx="2.8755181"
+         ry="2.8755181" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.52777px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
+         x="386.43384"
+         y="130.44551"
+         id="text1274"><tspan
+           id="tspan1272"
+           x="386.43384"
+           y="130.44551"
+           style="font-size:5.64444px;stroke-width:0.264583"
+           sodipodi:role="line">Split the line by spaces into separate </tspan><tspan
+           id="tspan1276"
+           x="386.43384"
+           y="137.50107"
+           style="font-size:5.64444px;stroke-width:0.264583"
+           sodipodi:role="line">data values</tspan></text>
+    </g>
+    <text
+       id="text1292"
+       y="201.04225"
+       x="383.23917"
+       style="font-size:3.52777px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         style="font-size:5.64444px;stroke-width:0.264583"
+         y="201.04225"
+         x="383.23917"
+         id="tspan1290">Return a dictionary containing all the data</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
+       x="379.52274"
+       y="51.048477"
+       id="text1309"><tspan
+         sodipodi:role="line"
+         id="tspan1307"
+         x="379.52274"
+         y="51.048477"
+         style="stroke-width:0.264583" /></text>
+    <text
+       id="text1313"
+       y="49.696396"
+       x="377.59818"
+       style="font-size:3.52777px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:7.76111px;stroke-width:0.264583"
+         y="49.696396"
+         x="377.59818"
+         id="tspan1311"
+         sodipodi:role="line">Order</tspan><tspan
+         style="font-size:4.93889px;stroke-width:0.264583"
+         y="56.855656"
+         x="377.59818"
+         sodipodi:role="line"
+         id="tspan1315">Read from outside to inside, top to bottom, </tspan><tspan
+         style="font-size:4.93889px;stroke-width:0.264583"
+         y="63.02927"
+         x="377.59818"
+         sodipodi:role="line"
+         id="tspan1319">left to right with that order of priority</tspan></text>
+  </g>
+</svg>
